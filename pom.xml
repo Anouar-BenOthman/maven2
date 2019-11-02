@@ -10,11 +10,11 @@
 
 
     <distributionManagement>
-        <repository>
+        <snapshotRepository>
             <id>nexus-snapshot</id>
             <name>nexus-snapshot</name>
             <url>http://localhost:8081/repository/nexus-snapshot/</url>
-        </repository>
+        </snapshotRepository>
     </distributionManagement>
 
 </project>
